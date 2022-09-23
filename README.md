@@ -8,7 +8,7 @@ Anurag Sharan (sharananurag998)
 
 # Demo
 
-The app is deployed using Firebase at https://web-net.netlify.app/
+The app is deployed using Netlify at https://web-net.netlify.app/
 
 ## Available Scripts
 
