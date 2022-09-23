@@ -8,7 +8,7 @@ Anurag Sharan (sharananurag998)
 
 # Demo
 
-The app is deployed using Firebase at https://netflix-clone-ec0f5.web.app/
+The app is deployed using Firebase at https://web-net.netlify.app/
 
 ## Available Scripts
 
